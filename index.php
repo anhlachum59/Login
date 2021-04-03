@@ -15,7 +15,7 @@
     
     <!-- pass -->
    
-    passWord: <input type="password" name="password">
+    <label>passWord: </label><input type="password" name="password">
     
     <!-- login -->
  
