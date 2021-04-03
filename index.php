@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Dang nhap</h1>
-<form action="./controllers/NguoiDungController.php?action=dangnhap" method="post">
+<form action="./DangNhapController.php?action=dangnhap" method="post">
     
     <!-- user -->
     <label>userName: </label><input type="text" name="username">
