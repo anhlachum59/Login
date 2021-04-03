@@ -10,5 +10,5 @@
     {
         die("Connect Fail");
     }
-    echo "<h1>Connect OK!</h1>";
+    // da xoa dong nay
 ?>
