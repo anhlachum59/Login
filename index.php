@@ -11,7 +11,7 @@
 <form action="./controllers/NguoiDungController.php?action=dangnhap" method="post">
     
     <!-- user -->
-    <label>userName: </label><input type="text" name="tennguoidung">
+    <label>userName: </label><input type="text" name="username">
     
     <!-- pass -->
    
