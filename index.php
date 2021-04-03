@@ -19,6 +19,9 @@
     
     <!-- login -->
     <input type="submit" value="Dang nhap">
+
+    //aishdauhsdiuas
+    <input type="submit" value="Dang nhap"> <!---->
 </form>
 </body>
 </html>
