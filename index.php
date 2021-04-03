@@ -8,17 +8,17 @@
 </head>
 <body>
 <h1>Dang nhap</h1>
-<form action="./controllers/NguoiDungController.php?action=dangnhap" method="post">
+<form action="./DangNhapController.php?action=dangnhap" method="post">
     
     <!-- user -->
-    userName: <input type="text" name="tennguoidung">
+    <label>userName: </label><input type="text" name="tennguoidung">
     
     <!-- pass -->
    
-    
+    <label>passWord: </label><input type="password" name="matkhau">
     
     <!-- login -->
- 
+    <input type="submit" value="Dang nhap">
 </form>
 </body>
 </html>
