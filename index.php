@@ -20,8 +20,8 @@
    
     <input type="submit" value="Dang nhap">
 
-    //aishdauhsdiuas
-    <input type="submit" value="Dang nhap"> <!---->
+    //aishdauhsdiuass
+    <input type="submit" value="Dang nhap"> 
 </form>
 </body>
 </html>
