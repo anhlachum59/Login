@@ -11,11 +11,11 @@
 <form action="./DangNhapController.php?action=dangnhap" method="post">
     
     <!-- user -->
-    <label>userName: </label><input type="text" name="username">
+    <label>userName: </label><input type="text" name="tennguoidung">
     
     <!-- pass -->
    
-    <label>passWord: </label><input type="password" name="password">
+    <label>passWord: </label><input type="password" name="matkhau">
     
     <!-- login -->
     <input type="submit" value="Dang nhap">

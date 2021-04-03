@@ -1,5 +1,5 @@
 <?php
-    require_once "../db_connect.php";
+    require_once "./db_connection.php";
     $action= $_REQUEST['action'];
     if(isset($action))
     {
@@ -32,8 +32,8 @@
     
     function DangNhap(){
         global $conn;
-        $tenNguoiDung = $_POST['username'];
-        $matKhau = $_POST['password'];
+        $tenNguoiDung = $_POST['tennguoidung'];
+        $matKhau = $_POST['matkhau'];
         $sql = "SELECT * FROM nguoidung WHERE tentaikhoan='$tenNguoiDung' AND matkhau='$matKhau'";
         $result =$conn->query($sql);
         if($result->num_rows > 0)
