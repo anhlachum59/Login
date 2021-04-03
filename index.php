@@ -18,7 +18,7 @@
     <label>passWord: </label><input type="password" name="matkhau">
     
     <!-- login -->
-    <input type="submit" value="Dang nhap">
+    <input type="submit" value="Dang nhap"> <!---->
 </form>
 </body>
 </html>
