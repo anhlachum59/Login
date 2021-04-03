@@ -1,0 +1,23 @@
+*{ margin: 0px; padding: 0px;}
+
+.main_contend{
+    text-align: center;
+    width: 800px;
+}
+.form_login{
+    background-color: cyan;
+}
+.form_login .user{
+    display: flex;
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+.form_login .pass{
+    display: flex;
+    margin-left: 200px;
+}
+input{
+    padding: 2px;
+    margin: 5px;
+}
+
